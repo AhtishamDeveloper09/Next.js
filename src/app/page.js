@@ -12,7 +12,7 @@ export default function Home() {
 
   return (
     <div>
-      <h1>Basic Routing</h1>
+      <h1>Common layout and Conditional layout</h1>
       <Link href="/login">Go to Login Page</Link>
       <br />
       <br />
