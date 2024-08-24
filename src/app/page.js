@@ -12,7 +12,7 @@ export default function Home() {
 
   return (
     <div>
-      <h1>Basic Routing</h1>
+      <h1>Link, Navigation and Basic Routing</h1>
       <Link href="/login">Go to Login Page</Link>
       <br />
       <br />
